@@ -40,4 +40,6 @@ This data was gotten from  Maven Analytics Playground
 [menu_items.csv](https://github.com/user-attachments/files/19009031/menu_items.csv)
 [order_details.csv](https://github.com/user-attachments/files/19009040/order_details.csv)
 
+1. What were the least and most ordered items? What categories were they in?
+
 
