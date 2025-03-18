@@ -5,7 +5,7 @@ Using SQL, I performed data cleaning, aggregation, and advanced querying techniq
 
 ## DATA PREPARATION AND ANALYSIS PROCESS
   **Situation**
-In the fast-paced restaurant industry, businesses need efficient database management and data-driven insights to optimize operations. This project focuses on designing and analyzing a restaurant database using SQL. The dataset includes tables for customers, orders, menu items, and sales transactions. The goal is to extract key business insights that can improve restaurant performance, customer satisfaction,top customers , preference and profitability.
+In the fast-paced restaurant industry, businesses need efficient database management and data-driven insights to optimize operations. This project focuses on designing and analyzing a restaurant database using SQL. The dataset includes tables for customers, orders, menu items, and sales transactions. The goal is to extract key business insights to improve restaurant performance, customer satisfaction, top customers, preference and profitability.
 
  **Assignment**
 The task involved:
@@ -19,24 +19,26 @@ The primary objectives of this project were to:
 - Perform data analysis on restaurant sales, customer activity, and menu performance.
 - Extract actionable insights that can help restaurant owners make informed business decisions.
   
-**Key Performance Indicators (KPIs) for Restaurant Orders**
-📌 Menu & Category Insights
+### **Key Performance Indicators (KPIs) for Restaurant Orders**
+
+**📌 Menu & Category Insights**
 Total Dishes Available: 🍽️ 32 food items on the menu.
 Total Menu Categories: 📂 4 categories of cuisine.
 
-⏰ Peak Order Times
+**⏰ Peak Order Times**
 Busiest Hour: 🚀 12:00 PM - 12:59 PM had the highest number of orders.
 Slowest Hour: 🕰️ 10:00 AM - 10:59 AM recorded the lowest number of orders (5 total).
-🍽️ Best & Worst Selling Dishes
+
+**🍽️ Best & Worst Selling Dishes**
 Most-Ordered Dish: 🍔 Hamburger 🏆 with 622 orders.
 Second Most Ordered: 🥢 Edamame with 620 orders.
 Least Ordered Dish: 🌮 Chicken Tacos with only 123 orders.
 
-💰 Price Insights
+**💰 Price Insights**
 Most Expensive Dish: 🦐 Shrimp Scampi at $19.90.
 Least Expensive Dish: 🥢 Edamame at $5.00.
 
-📅 Order Date Range
+**📅 Order Date Range**
 First Recorded Order: 📆 2023-01-01.
 Last Recorded Order: 📆 2023-03-31.
 
