@@ -1,7 +1,7 @@
 # RESTAURANT-OPERATION-ANALYSIS
-## OVERVIEW
+## OVERVIEW 
 This project uses SQL to analyze a restaurant's sales, customer behaviour, and operational efficiency. The dataset contains information on orders, menu items, transactions, and employee performance. The goal is to uncover key insights that can help optimize menu offerings, improve customer experience, and enhance staff performance.
-Using SQL, I performed data cleaning, aggregation, and advanced querying techniques to extract meaningful insights. The analysis covers best-selling items, peak sales periods, customer spending patterns, and employee productivity.
+Using SQL, I performed data cleaning, aggregation, and advanced querying techniques to extract meaningful insights. The analysis covers best-selling items, peak sales periods, customer spending patterns, and employee productivity. Power Bi was used for the data visualization.
 
 ## DATA PREPARATION AND ANALYSIS PROCESS
   **Situation**
@@ -19,7 +19,7 @@ The primary objectives of this project were to:
 - Perform data analysis on restaurant sales, customer activity, and menu performance.
 - Extract actionable insights that can help restaurant owners make informed business decisions.
   
-### **Key Performance Indicators (KPIs) for Restaurant Orders**
+ **Key Performance Indicators (KPIs) for Restaurant Orders**
 
 **📌 Menu & Category Insights**
     Total Dishes Available: 🍽️ 32 food items on the menu.  
@@ -61,12 +61,29 @@ Were there certain times that had more or fewer orders?
 
 Based on the data, which cuisines should we focus on developing more menu items for?
 
-## DATA SOURCE
+## Data Source
 This data was obtained from  Maven Analytics Playground
 [download here] (https://app.mavenanalytics.io/datasets)
 
-## DATA PREPARATION AND ANALYSIS PROCESS
-
+## Key Recommendations for Business Growth
+1. Improve Sales During Low-Peak Hours (10:00 AM - 10:59 AM)
+    Offer breakfast specials, combo deals, or discounts during this period to increase.
+   
+2. Optimize High-Peak Hour Performance (12:00 PM - 12:59 PM)
+     Increase staffing and ensure fast service during this rush period.
+     Implement pre-prepared meals for fast-moving items (Hamburgers, Edamame).
+    
+ 3. Adjust Pricing for Low and High-Performing Menu Items.
+    Increase the price of Edamame from $5.00 to $6.50 (20% markup) and reduce the price of Chicken Tacos( a discount on Chicken Tacos or bundle it with a drink to improve sales).
+    
+4. Promote High-Margin Items like Shrimp Scampi ($19.90).
+     Feature Shrimp Scampi as a premium meal on the menu.
+   
+5. Menu Optimization – Focus on Best Sellers & Remove Underperformers
+     Introduce Hamburger variations (Cheese-stuffed, BBQ, Spicy).
+   
+     Expand Edamame options (Garlic Edamame, Spicy Edamame).
+   
 ## DASHBOARD
 [Restaurant Operation Analysis](
 [menu_items.csv](https://github.com/user-attachments/files/19009031/menu_items.csv)
