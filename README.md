@@ -98,5 +98,10 @@ This data was obtained from  Maven Analytics Playground
 [order_details.csv](https://github.com/user-attachments/files/19009040/order_details.csv)
 
 1. What were the least and most ordered items? What categories were they in?
+2. ![Image](![Most and Least Ordered items](https://github.com/user-attachments/assets/2d4b1e64-a4e6-475d-aff4-d2147bb87b9c)
+3. ![Image_2]([Top 5 customers and their spending](https://github.com/user-attachments/assets/63095d3f-e307-4f64-960c-ffaad573468b)
+4.  ![Image_2]( ![Highest Spend order](https://github.com/user-attachments/assets/80bf9b8e-de6c-4883-8d80-8ad0776a0884)
+
+
 
 
