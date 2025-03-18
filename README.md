@@ -21,10 +21,10 @@ The primary objectives of this project were to:
   
  **Key Performance Indicators (KPIs) for Restaurant Orders**
 
-**📌 Menu & Category Insights**
-    Total Dishes Available: 🍽️ 32 food items on the menu.  
-    Total Menu Categories: 📂 4 categories of cuisine.   
-   
+**📌 Menu & Category Insights**  
+ Total Dishes Available: 🍽️ 32 food items on the menu.  
+ Total Menu Categories: 📂 4 categories of cuisine.   
+     
 **⏰ Peak Order Times**  
 
 Busiest Hour: 🚀 12:00 PM - 12:59 PM had the highest number of orders.  
@@ -65,24 +65,32 @@ Based on the data, which cuisines should we focus on developing more menu items 
 This data was obtained from  Maven Analytics Playground
 [download here] (https://app.mavenanalytics.io/datasets)
 
-## Key Recommendations for Business Growth
+## Key Recommendations for Business Growth  
+
 1. Improve Sales During Low-Peak Hours (10:00 AM - 10:59 AM)
+   
     Offer breakfast specials, combo deals, or discounts during this period to increase.
    
 2. Optimize High-Peak Hour Performance (12:00 PM - 12:59 PM)
+   
      Increase staffing and ensure fast service during this rush period.
+   
      Implement pre-prepared meals for fast-moving items (Hamburgers, Edamame).
     
- 3. Adjust Pricing for Low and High-Performing Menu Items.
-    Increase the price of Edamame from $5.00 to $6.50 (20% markup) and reduce the price of Chicken Tacos( a discount on Chicken Tacos or bundle it with a drink to improve sales).
+ 5. Adjust Pricing for Low and High-Performing Menu Items.
     
-4. Promote High-Margin Items like Shrimp Scampi ($19.90).
-     Feature Shrimp Scampi as a premium meal on the menu.
+    Increase the price of Edamame from $5.00 to $6.50 (20% markup)
+    Reduce the price of Chicken Tacos( a discount on Chicken Tacos or bundle it with a drink to improve sales).
+    
+7. Promote High-Margin Items like Shrimp Scampi ($19.90).
    
-5. Menu Optimization – Focus on Best Sellers & Remove Underperformers
-     Introduce Hamburger variations (Cheese-stuffed, BBQ, Spicy).
+   Feature Shrimp Scampi as a premium meal on the menu.
    
-     Expand Edamame options (Garlic Edamame, Spicy Edamame).
+9. Menu Optimization – Focus on Best Sellers & Remove Underperformers.
+    
+    Introduce Hamburger variations (Cheese-stuffed, BBQ, Spicy).
+   
+    Expand Edamame options (Garlic Edamame, Spicy Edamame).
    
 ## DASHBOARD
 [Restaurant Operation Analysis](
