@@ -25,9 +25,9 @@ The primary objectives of this project were to:
 
 What do the highest spend orders look like? Which items did they buy and how much did they spend?
 
-Were there certain times that had more or less orders?
+Were there certain times that had more or fewer orders?
 
-Which cuisines should we focus on developing more menu items for based on the data?
+Based on the data, which cuisines should we focus on developing more menu items for?
 
 ## DATA SOURCE
 This data was gotten from  Maven Analytics Playground
