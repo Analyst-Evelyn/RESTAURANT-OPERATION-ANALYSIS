@@ -21,25 +21,26 @@ The primary objectives of this project were to:
   
 ### **Key Performance Indicators (KPIs) for Restaurant Orders**
 
-####**📌 Menu & Category Insights**
+**📌 Menu & Category Insights**
     Total Dishes Available: 🍽️ 32 food items on the menu.
     Total Menu Categories: 📂 4 categories of cuisine.
+    
 
-####**⏰ Peak Order Times**
+**⏰ Peak Order Times**
 Busiest Hour: 🚀 12:00 PM - 12:59 PM had the highest number of orders.
 Slowest Hour: 🕰️ 10:00 AM - 10:59 AM recorded the lowest number of orders (5 total).
 
-####**🍽️ Best & Worst Selling Dishes**
+**🍽️ Best & Worst Selling Dishes**
 Most-Ordered Dish: 🍔 Hamburger 🏆 with 622 orders.
 Second Most Ordered: 🥢 Edamame with 620 orders.
 Least Ordered Dish: 🌮 Chicken Tacos with only 123 orders.
 
-####**💰 Price Insights**
-Most Expensive Dish: 🦐 Shrimp Scampi at $19.90.
 
+**💰 Price Insights**
+Most Expensive Dish: 🦐 Shrimp Scampi at $19.90.---
 Least Expensive Dish: 🥢 Edamame at $5.00.
 
-####**📅 Order Date Range**
+**📅 Order Date Range**
 First Recorded Order: 📆 2023-01-01.
 Last Recorded Order: 📆 2023-03-31.
 
