@@ -106,16 +106,19 @@ This data was obtained from  Maven Analytics Playground
 (![least and most ordered item](https://github.com/user-attachments/assets/5c008bbd-6cb5-4b00-ac05-976be2939695)  
 
 3. What were the top 5 orders that customers spent  the most money on?
+   
 (![Top 5 orders customer spends on](https://github.com/user-attachments/assets/6925b64f-571c-41b3-8e1c-b6a1247b47f5)
 
-4. What are the details of the highest spending order, and what insights can be derived from it?
+5. What are the details of the highest spending order, and what insights can be derived from it?
    
 (![Category orders](https://github.com/user-attachments/assets/1639d8a6-7406-4804-a148-50805aa9d448)  
 
-5. Orders Table   
+5. Orders Table.
+   
 (![orders table](https://github.com/user-attachments/assets/fbc54f59-82ea-41c3-8833-59ca220b8151)
 
-6. Menu Table
+7. Menu Table.
+   
 (![Menu table](https://github.com/user-attachments/assets/45d72320-d121-437e-a460-7361f00829da)
 
 
