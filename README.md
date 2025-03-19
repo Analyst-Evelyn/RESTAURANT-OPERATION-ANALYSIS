@@ -110,7 +110,15 @@ This data was obtained from  Maven Analytics Playground
 
 4. What are the details of the highest spending order, and what insights can be derived from it?
    
-(![Category orders](https://github.com/user-attachments/assets/1639d8a6-7406-4804-a148-50805aa9d448)
+(![Category orders](https://github.com/user-attachments/assets/1639d8a6-7406-4804-a148-50805aa9d448)  
+
+5. Orders Table   
+(![orders table](https://github.com/user-attachments/assets/fbc54f59-82ea-41c3-8833-59ca220b8151)
+
+6. Menu Table
+(![Menu table](https://github.com/user-attachments/assets/45d72320-d121-437e-a460-7361f00829da)
+
+
 
 
 
