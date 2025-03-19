@@ -118,8 +118,7 @@ This data was obtained from  Maven Analytics Playground
 (![orders table](https://github.com/user-attachments/assets/fbc54f59-82ea-41c3-8833-59ca220b8151)
 
 7. Menu Table.
-   
-(![Menu table](https://github.com/user-attachments/assets/45d72320-d121-437e-a460-7361f00829da)
+   (![Menu table](https://github.com/user-attachments/assets/45d72320-d121-437e-a460-7361f00829da)
 
 
 
