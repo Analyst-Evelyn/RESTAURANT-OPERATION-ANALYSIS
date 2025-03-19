@@ -99,17 +99,18 @@ This data was obtained from  Maven Analytics Playground
 
 1. What were the least and most ordered items? What categories were they in?
    
- ![Image](![Most and Least Ordered items](https://github.com/user-attachments/assets/2d4b1e64-a4e6-475d-aff4-d2147bb87b9c)  
+ (![Most and Least Ordered items](https://github.com/user-attachments/assets/2d4b1e64-a4e6-475d-aff4-d2147bb87b9c)  
 
-2. What were the least and most ordered items? And what categories are they in?
+3. What were the least and most ordered items? And what categories are they in?
    
-![image_2](![least and most ordered item](https://github.com/user-attachments/assets/5c008bbd-6cb5-4b00-ac05-976be2939695)  
+(![least and most ordered item](https://github.com/user-attachments/assets/5c008bbd-6cb5-4b00-ac05-976be2939695)  
 
 3. What were the top 5 orders that customers spent  the most money on?
-![image_2](![Top 5 orders customer spends on](https://github.com/user-attachments/assets/6925b64f-571c-41b3-8e1c-b6a1247b47f5)
+(![Top 5 orders customer spends on](https://github.com/user-attachments/assets/6925b64f-571c-41b3-8e1c-b6a1247b47f5)
 
 4. What are the details of the highest spending order, and what insights can be derived from it?
- ![image_2](![Category orders](https://github.com/user-attachments/assets/1639d8a6-7406-4804-a148-50805aa9d448)
+   
+(![Category orders](https://github.com/user-attachments/assets/1639d8a6-7406-4804-a148-50805aa9d448)
 
 
 
